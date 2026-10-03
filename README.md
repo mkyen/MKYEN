@@ -3,7 +3,7 @@
 
 Hi there 👋
 
-### Senior Cisco Collaboration & Cloud Engineer
+### Senior Collaboration & Cloud Engineer
 
 <small>
 
@@ -15,31 +15,15 @@ Transitioning into Cloud Engineering & Automation, Terraform, AWS/Azure, recentl
 
 
 
- **Cloud Platforms**
-  - AWS: EC2, S3, IAM, CloudFront, API Gateway, Application Load Balancer (ALB)
-  - Azure: VNets, NSGs, VPN Gateway, Entra ID (Azure AD), (Key Vault, Managed Identity, RBAC) | Python | Azure SDK
-
-- **Automation & IaC**
-  - Terraform (Infrastructure as Code)
-  - Python (automation, scripting, cloud operations)
-  - Bash
-  - PowerShell
-    
-
-- **Cisco Collaboration**
-  - CUCM
-  - UCCX
-  - Unity Connection
-  - IM & Presence
-  - Expressway 
-  - Cisco Unified Attendant Console (CUAC)
-  - CUBE
-  - SIP / H.323 / MGCP / ISDN (PRI, QSIG)
-
-- **Cloud Collaboration (Cisco Webex & Microsoft Teams)**
-  - Webex Calling with Local Gateway (LGW)
-  - Microsoft Teams Phone System
-  - Direct Routing
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Cloud & Infrastructure** | AWS (EC2, S3, Lambda, API Gateway), Azure (Entra ID, Key Vault, Managed Identity), Kubernetes, Terraform |
+| **Backend & API Engineering**   | Python, FastAPI, Pytest, Pandas,  Pydantic, SQLAlchemy ORM, REST APIs, Request/Response Validation |
+| **API Testing & Automation** | Pytest, Postman, Schemathesis, OpenAPI Contract Validation |
+| **Security & API Security** | PKI, TLS, JWT, OAuth 2.0, API Authentication & Authorization, Rate Limiting, OWASP API Security |
+| **DevOps & CI/CD** | GitHub Actions, CI/CD, Argo CD, GitOps, Linux, Bash, PowerShell |
+| **Data & Observability** | SQL, Redis, MongoDB, Prometheus, Grafana, OpenTelemetry, Monitoring & Alerting |
+| **UC & Collaboration** | Cisco CUCM, CUBE, Webex Calling, MS Teams Direct Routing, SIP, H.323, ISDN |
 
 
 ## Certifications
